@@ -1,0 +1,13 @@
+#btn1:hover{
+
+    background: red;
+}
+
+.custom-modal {
+    max-width: 100%; 
+    margin: 0 auto; 
+  }
+
+  .custom-modal .modal-dialog {
+    max-width: 100%; 
+  }
